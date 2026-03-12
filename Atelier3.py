@@ -42,6 +42,8 @@ parc1 = Parc(90, "Ottawa", 3, [])
 v1 = Voiture("G669DD", "toyota", "Noir")
 v2 = Voiture("B43DF8", "bmw", "Noir")
 v3 = Voiture("OTT9R5", "honda", "Blanc")
-
+parc1.entrerVoiture(v1)
+parc1.entrerVoiture(v2)
+parc1.entrerVoiture(v3)
 
 
