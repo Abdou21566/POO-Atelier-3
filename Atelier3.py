@@ -45,5 +45,6 @@ v3 = Voiture("OTT9R5", "honda", "Blanc")
 parc1.entrerVoiture(v1)
 parc1.entrerVoiture(v2)
 parc1.entrerVoiture(v3)
+parc1.sortirVoiture(v2)
 
 
